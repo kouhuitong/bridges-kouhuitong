@@ -4,7 +4,7 @@ HUITONG KOU
 2020年2月6日
 
 ``` r
-#hw1
+#hw1.
 library(R.utils)
 download.file('https://www.fhwa.dot.gov/bridge/nbi/2018hwybronefiledel.zip',destfile="tmp.zip")
 unzip("tmp.zip",files="2018HwyBridgesDelimitedAllStates.txt")
